@@ -75,7 +75,7 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=starlight&color=blueviolet&style=for-the-badge)
-
+---
 ```python
 while(alive):
     learn()
