@@ -67,13 +67,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithaa-R&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithaa-R&layout=compact&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
@@ -81,6 +74,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Harshithaa-R)
 
 ---
+![](https://komarev.com/ghpvc/?username=starlight&color=blueviolet&style=for-the-badge)
 
 ```python
 while(alive):
